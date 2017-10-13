@@ -14,8 +14,10 @@ Maxdome provides video on-demand and operates exclusively in Germany and Austria
 
 Login and ...
 <ul>
-<li>click “assets/“</li>
-<li>scroll down to the filter section and type “genre~drama” [genre + 'tilde' + 'space' + drama]</li>
+<li>click “assets“</li>
+<li>click “/assets/“</li>
+<li>scroll down to the filter section and type “search~avatar” [search + 'tilde' + 'space' + avatar]<br>
+(Note: the 'space' after the tilde is necessary on a german keyboard to "lock-in" the tilde)</li>
 <li>scroll down and click the “Try it Out” button</li>
 </ul>
 

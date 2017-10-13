@@ -22,7 +22,7 @@ Login and ...
 <li>Congratulations! You should get a JSON object back with relevant assets.
 </ul>
 
-In order to see the content and familiarize yourself with the data available, please use the credentials below and sign to  https://maxdome.de. Once signed in you can browse by <b>genre</b>, search for specific <b>titles</b>, <b>actors</b>, or <b>directors</b>. Next, challenge yourself to pull up the same data from within your Lambda function. 
+In order to familiarize yourself with the content available, sign-in to https://maxdome.de (use the credentials for the Test Account listed below). Once signed in, you can search/browse by <b>genre</b>, movie <b>titles</b>, <b>actors</b>, <b>directors</b>, and more. Next, challenge yourself to pull up the same data from within your Lambda function. 
 <br><br>
 
 ## Maxdome Site Test Account 

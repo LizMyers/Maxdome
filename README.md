@@ -1,6 +1,7 @@
 # Maxdome API
 Maxdome provides video on-demand and operates exclusively in Germany and Austria. All content returned by the service is in the German language. The RestFUL service returns an "assetList" in JSON format and is relatively easy to integrate with Alexa.
-
+<br>
+<br>
 
 ### How to Access the API 
 
@@ -14,14 +15,15 @@ Maxdome provides video on-demand and operates exclusively in Germany and Austria
 
 Login and ...
 <ul>
-<li>click “assets“</li>
-<li>click “/assets/“</li>
-<li>scroll down to the filter section and type “search~avatar” [search + 'tilde' + 'space' + avatar]<br>
+<li>click <b>assets</b></li>
+<li>click <b>/assets/</b></li>
+<li>scroll down to the filter section and type <b>search~avatar</b> [search + 'tilde' + 'space' + avatar]<br>
 (Note: the 'space' after the tilde is necessary on a german keyboard to "lock-in" the tilde)</li>
-<li>scroll down and click the “Try it Out” button</li>
+<li>scroll down and click the <b>Try it Out</b> button</li>
+<li>Congratulations! You should get a JSON object back with relevant assets.
 </ul>
-
-
+<br>
+<br>
 
 ### Test Account Info
 <b>Name:</b> Voice Hackathon
@@ -35,6 +37,8 @@ Login and ...
 <b>Gültig bis:</b> 31.10.2017 (valid until Oct 31, 2017)
 
 #### NOTE: The test account doesn't yet work with oAuth, so account-linking with Alexa is not possible.
+<br>
+<br>
 
 ### Further Resources
 Please see this repo for further sample code and insights

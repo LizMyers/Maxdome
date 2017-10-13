@@ -22,15 +22,15 @@ Login and ...
 <li>Congratulations! You should get a JSON object back with relevant assets.
 </ul>
 
-In order to see the content and familiarize yourself with the data available, please see https://maxdome.de
-<br>
+In order to see the content and familiarize yourself with the data available, please use the credentials below and sign to  https://maxdome.de. Once signed in you can browse by <b>genre</b>, search for specific <b>titles</b>, <b>actors</b>, or <b>directors</b>. Next, challenge yourself to pull up the same data from within your Lambda function. 
+<br><br>
 
-## Test Account Info
+## Maxdome Site Test Account 
 <b>Name:</b> Voice Hackathon
 
-<b>Login:</b> VoiceUI_Hackathon_2017@qa.mxd.de
+<b>User Name:</b> VoiceUI_Hackathon_2017@qa.mxd.de
 
-<b>password:</b> mxdvoice2017
+<b>Password:</b> mxdvoice2017
 
 <b>FSK Pin:</b> 1234
 

@@ -1,5 +1,5 @@
 # Maxdome API
-Maxdome provides video on-demand and operates exclusively in Germany and Austria. All content returned by the service is in the German language. The restFULL service returns an "assetList" in JSON format and is relatively easy to integrate with Alexa.
+Maxdome provides video on-demand and operates exclusively in Germany and Austria. All content returned by the service is in the German language. The restFULL service returns an "assetList" in JSON format - making it easy to integrate with Alexa.
 <br>
 <br>
 ## How to Access the API 

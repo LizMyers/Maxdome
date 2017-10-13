@@ -8,7 +8,7 @@
 
 <b>Name:</b> Voice Hackathon
 
-<b>User Name:</b> VoiceUI_Hackathon_2017@qa.mxd.de
+<b>User Name:</b> "VoiceUI_Hackathon_2017@qa.mxd.de"
 
 <b>Password:</b> mxdvoice2017
 
@@ -18,7 +18,8 @@
 
 #### NOTE: The test account doesn't yet work with oAuth, so account-linking with Alexa is not possible.
 <br>
-<b>
+<br>
+
 ## Access the Maxdome API 
 
 <b>API:</b> https://heimdall.maxdome.de/docs/v1/

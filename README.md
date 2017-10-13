@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## Sign in to MAXDOME.DE 
+## Sign-in to Maxdome.de
 <br>URL:</b> <a href="https://maxdome.de" automatic>https://maxdome.de</a>
 
 <b>Name:</b> Voice Hackathon

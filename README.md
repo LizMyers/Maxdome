@@ -23,6 +23,8 @@ Login and ...
 </ul>
 
 In order to familiarize yourself with the content available, sign-in to https://maxdome.de (use the credentials for the Test Account listed below). Once signed in, you can search/browse by <b>genre</b>, movie <b>title</b>, <b>actor</b>, <b>director</b>, and more. Next, challenge yourself to pull up the same data from within your Lambda function. 
+
+To see the <b>full list</b> of filters you can use, check out the <b>PDF in this repo</p>.
 <br><br>
 
 ## Maxdome Site Test Account 
@@ -40,8 +42,5 @@ In order to familiarize yourself with the content available, sign-in to https://
 <br>
 
 ## Further Resources
-Filters List
-URL goes here...
-
 Vielen Dank to Christoph Herrmann of Maxdome for sharing his repo:<br>
 https://github.com/Sharaal?utf8=%E2%9C%93&tab=repositories&q=ai-&type=&language

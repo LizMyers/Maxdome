@@ -21,6 +21,8 @@ Login and ...
 <li>scroll down and click the <b>Try it Out</b> button</li>
 <li>Congratulations! You should get a JSON object back with relevant assets.
 </ul>
+
+In order to see the content and familiarize yourself with the data available, please see https://maxdome.de
 <br>
 
 ## Test Account Info
@@ -35,7 +37,7 @@ Login and ...
 <b>Gültig bis:</b> 31.10.2017 (valid until Oct 31, 2017)
 
 #### NOTE: The test account doesn't yet work with oAuth, so account-linking with Alexa is not possible.
-
+<br>
 
 ## Further Resources
 Vielen Dank to Christoph Herrmann of Maxdome for sharing his repo:<br>

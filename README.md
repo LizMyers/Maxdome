@@ -8,7 +8,7 @@
 
 <b>Name:</b> Voice Hackathon
 
-<b>User Name:</b> "VoiceUI_Hackathon_2017@qa.mxd.de"
+<b>User Name:</b> VoiceUI_Hackathon_2017@<i></i>qa.mxd.de
 
 <b>Password:</b> mxdvoice2017
 

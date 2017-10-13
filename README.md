@@ -16,7 +16,7 @@
 
 <b>Gültig bis:</b> 31.10.2017 (valid until Oct 31, 2017)
 
-#### NOTE: The test account doesn't yet work with oAuth, so account-linking with Alexa is not possible.
+NOTE: The test account doesn't yet work with oAuth, so account-linking with Alexa is not possible.
 <br>
 <br>
 
@@ -40,7 +40,7 @@ Login and ...
 <li>Congratulations! You should get a JSON object back with relevant assets.
 </ul>
 
-In order to familiarize yourself with the content available, sign-in to https://maxdome.de (use the credentials for the Test Account listed below). Once signed in, you can search/browse by <b>genre</b>, movie <b>title</b>, <b>actor</b>, <b>director</b>, and more. Next, challenge yourself to pull up the same data from within your Lambda function. 
+In order to better familiarize yourself with the content available, sign-in to https://maxdome.de (use the credentials for the Test Account listed above). Once signed in, you can search/browse by <b>genre</b>, movie <b>title</b>, <b>actor</b>, <b>director</b>, and more. Challenge yourself to pull up the same data from within your Lambda function. 
 
 To see the <b>full list</b> of filters you can use, check out the <b>PDF in this repo.</p>
 <br><br>

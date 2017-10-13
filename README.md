@@ -45,7 +45,6 @@ In order to better familiarize yourself with the content available, sign-in to h
 To see the <b>full list</b> of filters you can use, check out the <b>PDF in this repo.</p>
 <br><br>
 
-
 ## Further Resources
 Vielen Dank to Christoph Herrmann of Maxdome for sharing his repo:<br>
 https://github.com/Sharaal?utf8=%E2%9C%93&tab=repositories&q=ai-&type=&language
